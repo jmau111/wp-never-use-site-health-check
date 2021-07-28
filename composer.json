@@ -1,0 +1,15 @@
+{
+  "name"       : "jmau/wp-never-use-site-health-check",
+  "description": "WordPress plugin that removes the site health check feature",
+  "type"       : "wordpress-plugin",
+  "license"    : "GPL-3.0+",
+  "authors"    : [
+    {
+      "name"    : "Julien Maury",
+      "homepage": "https://www.julien-maury.dev/"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
